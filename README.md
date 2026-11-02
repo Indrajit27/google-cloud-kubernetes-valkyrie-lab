@@ -158,3 +158,7 @@ Practical familiarity with container image creation, registry authentication and
 - [Google Cloud Skills Boost](https://www.cloudskillsboost.google/)
 - [Artifact Registry documentation](https://cloud.google.com/artifact-registry/docs)
 - [Google Kubernetes Engine documentation](https://cloud.google.com/kubernetes-engine/docs)
+
+## Additional lab write-up
+
+- [GSP304 — Build and Deploy a Docker Image to a Kubernetes Cluster](labs/GSP304-echo-web-kubernetes/README.md)
